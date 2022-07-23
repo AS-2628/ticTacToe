@@ -16,7 +16,7 @@ public class Main
     public static void main(String[] args)
     {
         Scanner scan = new Scanner(System.in);
-        System.out.println("\n Welcome to Akshara'sTicTacToe\n Lets have some fun right now !!!\n");
+        System.out.println("\n Welcome to Akshara's  Tic-Tac-Toe 👋\n Lets have some fun right now !!!\n");
         System.out.println(" This is your default game board 👇\n");
         printGameBoard(gameBoard);
         System.out.println();
